@@ -1,5 +1,3 @@
-Forked from http://www.wowinterface.com/downloads/info12652-AuctionLite.html
-
 h2. Changes
 
 * Made listings more compact
