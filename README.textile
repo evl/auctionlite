@@ -1,0 +1,6 @@
+Forked from http://www.wowinterface.com/downloads/info12652-AuctionLite.html
+
+h2. Changes
+
+* Made listings more compact
+* Added an option to immediately start scanning your first favorites list upon opening the auction house
